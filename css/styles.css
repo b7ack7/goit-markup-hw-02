@@ -1,0 +1,47 @@
+:root {
+  --head-text-color: #ffffff;
+  --primary-text-color: #2f303a;
+  --main-text-color: #f5f4fa;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  color: #212121;
+}
+a {
+  text-decoration: none;
+}
+.logo {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  color: #000000;
+}
+.accent {
+  color: #2196f3;
+}
+.social-links .link {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 0.87;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.social-links .link:hover{
+    color: #2196F3;
+}
+.contact .inf{
+    font-family: 'Roboto';
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 0.87;
+        letter-spacing: 0.02em;
+        color: #212121;
+
+}
+.contact .inf:hover{
+    color: #2196F3;
+}
