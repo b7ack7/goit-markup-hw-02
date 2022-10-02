@@ -88,10 +88,9 @@ header {
   border: none;
   border-radius: 4px;
 }
-.main-button:hover{
-background-color:#188CE8;
-color: #fff;
-
+.main-button:hover {
+  background-color: #188ce8;
+  color: #fff;
 }
 .main-text-section {
   background-color: #fff;
@@ -118,7 +117,7 @@ color: #fff;
   color: var(--color-text);
   text-decoration: none;
 }
-.main-section-whatwedoing{
+.main-section-whatwedoing {
   list-style-type: none;
   background-color: #fff;
 }
@@ -208,48 +207,47 @@ footer {
 .contact-links-footer .contact-link-footer:focus {
   color: #2196f3;
 }
-.button-portfolio{
-    font-family: 'Roboto',sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.62;
-        letter-spacing: 0.03em;
-        color: var(--color-primary);
-        background: var(--color-backgorund);
-        border-radius: 4px;
-       
+.button-portfolio {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+  color: var(--color-primary);
+  background: var(--color-backgorund);
+  border-radius: 4px;
 }
-.button-portfolio:focus{
-    background-color: #2196F3;
-    color:#fff;
+.button-portfolio:focus {
+  background-color: #2196f3;
+  color: #fff;
 }
-.button-portfolio:hover{
-background-color: #2196F3;
-    color: #fff;
+.button-portfolio:hover {
+  background-color: #2196f3;
+  color: #fff;
 }
-.list-buttons-portfolio{
-list-style-type: none;
-}
-.list-portfolio-box{
+.list-buttons-portfolio {
   list-style-type: none;
 }
-.porfolio-box{
+.list-portfolio-box {
+  list-style-type: none;
+}
+.porfolio-box {
   box-sizing: border-box;
-  background: #FFFFFF;
-    border: 1px solid #EEEEEE;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
 }
-.portfolio-title{
-    font-family: 'Roboto',sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 2;
-    letter-spacing: 0.06em;
-    color: var(--color-primary);
+.portfolio-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: var(--color-primary);
 }
-.portfolio-text{
-  font-family: 'Roboto',sans-serif;
-    font-size: 16px;
-    line-height: 1.87;
-    letter-spacing: 0.03em;
-    color: var(--color-text);
+.portfolio-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: var(--color-text);
 }
