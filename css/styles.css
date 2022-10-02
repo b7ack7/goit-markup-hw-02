@@ -230,3 +230,26 @@ background-color: #2196F3;
 .list-buttons-portfolio{
 list-style-type: none;
 }
+.list-portfolio-box{
+  list-style-type: none;
+}
+.porfolio-box{
+  box-sizing: border-box;
+  background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+}
+.portfolio-title{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: var(--color-primary);
+}
+.portfolio-text{
+  font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.03em;
+    color: var(--color-text);
+}
